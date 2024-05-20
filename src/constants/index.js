@@ -169,25 +169,29 @@ export const teams = [
     id: 0,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/team/dummy.jpeg",
+    image:
+      "https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/team/dummy.jpeg",
   },
   {
     id: 1,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/team/dummy.jpeg",
+    image:
+      "https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/team/dummy.jpeg",
   },
   {
     id: 2,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/team/dummy.jpeg",
+    image:
+      "https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/team/dummy.jpeg",
   },
   {
     id: 3,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/team/dummy.jpeg",
+    image:
+      "https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/team/dummy.jpeg",
   },
 ];
 

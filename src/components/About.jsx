@@ -48,7 +48,7 @@ const About = () => {
             <div className="space-y-8">
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/stats/partners.png"
+                  src="https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/stats/partners.png"
                   alt=""
                   className="w-10 h-10"
                 />
@@ -62,7 +62,7 @@ const About = () => {
 
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/stats/Experience.png"
+                  src="https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/stats/Experience.png"
                   alt=""
                   className="w-10 h-10"
                 />
@@ -76,7 +76,7 @@ const About = () => {
             <div className="space-y-8">
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/stats/products.png"
+                  src="https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/stats/products.png"
                   alt=""
                   className="w-10 h-10"
                 />
@@ -88,7 +88,7 @@ const About = () => {
 
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/stats/support.png"
+                  src="https://raw.githubusercontent.com/deh2o/hackaton_app/master/src/assets/stats/support.png"
                   alt=""
                   className="w-10 h-10"
                 />
