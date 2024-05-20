@@ -48,7 +48,7 @@ const About = () => {
             <div className="space-y-8">
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/images/stats/partners.png"
+                  src="./src/assets/stats/partners.png"
                   alt=""
                   className="w-10 h-10"
                 />
@@ -62,7 +62,7 @@ const About = () => {
 
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/images/stats/Experience.png"
+                  src="./src/assets/stats/Experience.png"
                   alt=""
                   className="w-10 h-10"
                 />
@@ -76,7 +76,7 @@ const About = () => {
             <div className="space-y-8">
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/images/stats/products.png"
+                  src="./src/assets/stats/products.png"
                   alt=""
                   className="w-10 h-10"
                 />
@@ -88,7 +88,7 @@ const About = () => {
 
               <div className="flex items-center gap-4">
                 <img
-                  src="./src/assets/images/stats/support.png"
+                  src="./src/assets/stats/support.png"
                   alt=""
                   className="w-10 h-10"
                 />

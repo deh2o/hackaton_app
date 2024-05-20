@@ -169,25 +169,25 @@ export const teams = [
     id: 0,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/images/dummy.jpeg",
+    image: "/src/assets/team/dummy.jpeg",
   },
   {
     id: 1,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/images/dummy.jpeg",
+    image: "/src/assets/team/dummy.jpeg",
   },
   {
     id: 2,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/images/dummy.jpeg",
+    image: "/src/assets/team/dummy.jpeg",
   },
   {
     id: 3,
     name: "John Doe",
     title: "Programmer",
-    image: "/src/assets/images/dummy.jpeg",
+    image: "/src/assets/team/dummy.jpeg",
   },
 ];
 
